@@ -1,3 +1,4 @@
+require 'date'
 class App < Sinatra::Base
 
 	get '/' do
